@@ -67,7 +67,7 @@ git clone https://github.com/edamame-course/2016-tutorials.git
 cd /path/to/directory/of/forked/repository
 ```
 
-* Using your favorite text editor, let's open the README.md file. nano for Mac and Linux and notepad for Windows are default options, but you can find info for more advanced? text editors such as atom (MAC and Linux) and sublime (Windows) below.
+* Using your favorite text editor, let's open the README.md file. Use nano for Mac and Linux operating systems and use notepad for Windows. For more advanced text editors, see atom (MAC and Linux) and sublime (Windows) below.
 
 Mac and Linux users
 ```
