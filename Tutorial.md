@@ -64,7 +64,7 @@ git clone https://github.com/edamame-course/2016-tutorials.git
 * Change into the tutorial directory that we forked and cloned before. **Remember, Windows users should be using gitbash for all of these steps!**
 
 ```
-cd \path\to\directory\of\forked\repository
+cd /path/to/directory/of/forked/repository
 ```
 
 * Using your favorite text editor, let's open the README.md file. nano for Mac and Linux and notepad for Windows are default options, but you can find info for more advanced? text editors such as atom (MAC and Linux) and sublime (Windows) below.
