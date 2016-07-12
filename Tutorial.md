@@ -40,7 +40,7 @@ The main benefit of forking a repository is that it allows you to copy an existi
 
 ![img2](/img/Clone.png)
 
-* Click on that and then copy the link by clicking on the clipboard icon.
+* Click on that and then copy the link.
 *  Choose a local directory that you want this repository to be added to. Change into that directory and clone the URL just copied:
 
 ```
